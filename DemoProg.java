@@ -4,4 +4,5 @@ public DemoProg{
         System.out.println("Hello");
         
      }
+     System.out.println("HI");
 }
